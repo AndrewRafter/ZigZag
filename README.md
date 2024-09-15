@@ -5,7 +5,7 @@ Title: ZigZag
 
 Description:
 ------------
-A game where the player has to chnage the balls direction to avoid falling off the edge. They can also pickup the diamonds to score points
+A game where the player has to change the balls direction to avoid falling off the edge. They can also pickup the diamonds to score points
 
 Controls:
 ------------
